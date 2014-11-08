@@ -1,0 +1,9 @@
+{
+  "name": "Ijepai",
+  "version": "${FBSTRING_PLUGIN_VERSION}",
+  "description": "Ijepai viewer",
+
+	"plugins": [
+    { "path": "npIjepai.dll", "public": true }
+  ]
+}
